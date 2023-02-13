@@ -5,7 +5,7 @@ public class Pizza {
     private int price;
     private Boolean isVeg;
     private String bill;
-    int topping;// topping prise veries for veg and non-veg
+    private int topping;// topping prise veries for veg and non-veg
 
     // to add only one time we check using flag
     boolean cheeseadded;
